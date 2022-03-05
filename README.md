@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,This is Rakibul Islam</h1>
 <h3 align="center">A passionate frontend developer. Looking for a new opportunity</h3>
 
-- 🌱 I’m currently learning **Node JS, express JS and MongoDB**
+- 🌱 I’m currently learning **NexJs, Redux, Node JS, express JS and MongoDB**
 
 - 💬 Ask me about **JavaScript and React**
 
